@@ -8,8 +8,9 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Arthur
+ * @author Arthur Carlos
  */
+
 public class principal extends javax.swing.JFrame {
 
     /**
